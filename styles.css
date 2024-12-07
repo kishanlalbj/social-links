@@ -42,7 +42,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: calc(100vh - 3rem);
+  height: 100vh;
 }
 
 .avatar {
@@ -60,6 +60,7 @@ body {
   color: var(--button-color);
   text-align: center;
   margin-top: 8px;
+  font-weight: 600;
 }
 
 h1 {
